@@ -1,6 +1,8 @@
 # 🧠 AI Website Builder CLI 🚀  
 > _“Convert ideas into code – right from your terminal.”_
 
+<img src="https://img.shields.io/badge/Gemini%20AI-00C853?style=for-the-badge&logo=google&logoColor=white" />
+
 ---
 
 ## 🧩 What is this?
