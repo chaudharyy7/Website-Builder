@@ -1,8 +1,6 @@
 # 🧠 AI Website Builder CLI 🚀  
 > _“Convert ideas into code – right from your terminal.”_
 
-![AI Builder Banner](https://raw.githubusercontent.com/yourusername/ai-website-builder-cli/main/assets/banner.svg)
-
 ---
 
 ## 🧩 What is this?
@@ -12,9 +10,7 @@ Perfect for developers, designers, and anyone looking to prototype faster ⚡
 
 ---
 
-## 🖼️ How It Works
-
-![Workflow](https://raw.githubusercontent.com/yourusername/ai-website-builder-cli/main/assets/workflow.svg)
+## ⚒️ How It Works
 
 1. 🧠 You enter a website idea
 2. 🤖 Gemini understands the intent
@@ -26,10 +22,8 @@ Perfect for developers, designers, and anyone looking to prototype faster ⚡
 
 ## 📦 Features
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="10px"/> &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="10px"/> &nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postman_icon.svg" height="30px"/> &nbsp;
-<img src="https://www.svgrepo.com/show/376337/openai.svg" height="30px"/> &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="200px" width="200px"/> &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="200px" width="200px"/> &nbsp;
 
 - 🧠 Gemini 2.5 Flash AI support
 - 🛠️ Write files and folders via tool calls
