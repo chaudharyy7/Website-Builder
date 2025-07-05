@@ -62,11 +62,15 @@ You can also load it via environment variables for better security.
 
 # ▶️ Run the Project
 ```bash
-node index.js
+ npm run dev
+```
+# Srart Server
+```bash
+node server.js
 ```
 
 Then type a prompt like:
-```👉 Enter website idea: A modern landing page for a travel agency```
+👉 Enter website idea: `A modern landing page for a travel agency`
 
 # 🧪 Example Prompts
 Prompt	Description
