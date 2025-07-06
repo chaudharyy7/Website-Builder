@@ -9,7 +9,7 @@ const asyncExecute = promisify(exec);
 const platform = os.platform();
 
 const ai = new GoogleGenAI({
-    apiKey: 'AIzaSyD3MNmnXVEmrOxRFp4sIhzWHb1VwaTiStE' // Replace with your Gemini API key
+    apiKey: 'API KEY' // Replace with your Gemini API key
 });
 
 const History = [];
