@@ -45,8 +45,8 @@ Perfect for developers, designers, and anyone looking to prototype faster ⚡
 ## 🚀 Installation
 
 ```bash
-git clone https://github.com/yourusername/ai-website-builder-cli.git
-cd ai-website-builder-cli
+git clone https://github.com/chaudharyy7/Website-Builder.git
+cd Website-Builder
 npm install
 ```
 
